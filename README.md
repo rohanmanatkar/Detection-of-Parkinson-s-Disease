@@ -1,4 +1,4 @@
-# Detection-Of-Parkinson-s-Disease-Using-Voice-Impairments-With-ML-and-LSTM
+# Detection-Of-Parkinson-s-Disease-Using-Speech-Data
 
 Introduction
 
