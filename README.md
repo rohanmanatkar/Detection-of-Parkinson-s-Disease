@@ -1,10 +1,10 @@
-# Detection-Of-Parkinson-s-Disesase-Using-Voice-Impairments-With-ML-and-LSTM
+# Detection-Of-Parkinson-s-Disease-Using-Voice-Impairments-With-ML-and-LSTM
 
 Introduction
 
-The purpose of this project is to make up a prediction model where we will be able to predict whether a patient is suffering from Parkinson's disease or not. 
-In this project, we use various Machine Learning models to find their respective accuracies, then implement the proposed Deep Learning LSTM model 
-that accurately predicts Parkinson's and gives better results, based on speech data.
+The purpose of this project is to make up a prediction model where we will be able to predict whether a patient is suffering from Parkinson's disease. 
+We use various Machine Learning models to find their respective accuracies, then implement the proposed Deep Learning LSTM model 
+that predicts Parkinson's and gives better results, based on speech data.
 
 To do so, we will work on UCI's Machine Learning repository speech dataset. We perform Feature Extraction, then Data Cleaning on the dataset. After obtaining the dataset in
 the desired format, we load it into various predictive models including Logistic Regression, K_NN, Naive Bayes, SVM, and RFC. We then implement the proposed LSTM model.
